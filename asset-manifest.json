@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/react-api-learning/static/css/main.7acaea2f.css",
-    "main.js": "/react-api-learning/static/js/main.07d3183d.js",
+    "main.js": "/react-api-learning/static/js/main.cfddbc4b.js",
+    "static/media/error.jpg": "/react-api-learning/static/media/error.7d86105a62bf3b28ec78.jpg",
     "index.html": "/react-api-learning/index.html",
     "main.7acaea2f.css.map": "/react-api-learning/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-api-learning/static/js/main.07d3183d.js.map"
+    "main.cfddbc4b.js.map": "/react-api-learning/static/js/main.cfddbc4b.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.cfddbc4b.js"
   ]
 }
