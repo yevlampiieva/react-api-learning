@@ -1,5 +1,3 @@
-
-
 import { ImSpinner } from 'react-icons/im';
 import PokemonDataView from './PokemonDataView';
 import pendingImage from './pending.png';

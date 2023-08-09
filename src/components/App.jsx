@@ -9,7 +9,7 @@ export default class App extends Component {
   };
 
   handleFormSubmit = pokemonName => {
-    this.setState({pokemonName})
+    this.setState({ pokemonName });
   };
   render() {
     return (
@@ -17,7 +17,6 @@ export default class App extends Component {
         <PokemonForm onSubmit={this.handleFormSubmit} />
         <PokemonInfo pokemonName={this.state.pokemonName} />
         {/* <ToastContainer autoClose={3000} /> */}
-        
       </div>
     );
   }
